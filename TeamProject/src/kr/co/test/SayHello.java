@@ -10,6 +10,8 @@ public class SayHello {
 		System.out.println("이클립스 충돌 테스트 로컬 입력");
 
 		System.out.println("원격저장소masterbranch 수정");
+		
+		System.out.println("pull testing");
 
 	}
 }
